@@ -22,6 +22,7 @@
 * [Download](https://keymaster.fivem.net/asset-grants) script;
 * Place it in the resources folder;
 * Add 'ensure dk_race_path' (without quotes) to server.cfg.
+* Install the database 'dk_race_path.sql' to save the Paths.
 
 ## HOW TO USE
 
