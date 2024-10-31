@@ -1,5 +1,7 @@
 # RACE PATH [STANDALONE]
 
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1301341406207676426/THUMB.png?ex=67242020&is=6722cea0&hm=cf2962fa22c1b01025f46ebe15f103a31d2a4fce73b67990e2537fd7989c9342&)
+
 ## DESCRIPTION
 
 ### Race Path is the ultimate tool for bringing a high level of racing immersion to your FiveM server. This script allows players to record, view, and save custom racing paths that visually track acceleration and braking with dynamic color-coded trails. RacePath is ideal for competitive events, practice runs, or simply enhancing a player’s experience by showing their path and speed changes in real time.
