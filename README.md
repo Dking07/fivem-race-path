@@ -17,7 +17,7 @@
 
 ## DOWNLOAD
 
-* [TEBEX](https://dking.tebex.io/package/6521141)
+* [TEBEX](https://dking.tebex.io/package/6521905)
 
 ## HOW TO INSTALL
 
