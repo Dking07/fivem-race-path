@@ -29,7 +29,7 @@
 ## HOW TO USE
 
 ### Commands, binds, path colors, path display modes, rendering distance, etc., all explained and configurable in config.lua.
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1301479838388981850/config.png?ex=6724a10d&is=67234f8d&hm=6d7fe2d6b8b7298e1ac689fe1e25e6af6384ecc4424170a093bf8e1d2cbcbb21&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1301755185013456956/config.png?ex=6725a17d&is=67244ffd&hm=661740d6f68669d01869c80da65ba6e22b120ac89f5fb201aad000d11d4b6718&)
 
 ## PREVIEW
 
