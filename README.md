@@ -33,7 +33,7 @@
 
 ## PREVIEW
 
-* [YouTube]([https://discord.gg/Rw6vjcXspG](https://youtu.be/JfWrEjP3NXc))
+* [YouTube](https://youtu.be/JfWrEjP3NXc)
 
 ## Discord
 
