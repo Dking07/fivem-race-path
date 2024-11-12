@@ -35,6 +35,10 @@
 
 * [YouTube](https://youtu.be/JfWrEjP3NXc)
 
+## DEPENDENCIES
+
+* [oxmysql](https://github.com/overextended/oxmysql)
+
 ## Discord
 
 ### [Dking Warehouse](https://discord.gg/Rw6vjcXspG)
