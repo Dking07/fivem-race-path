@@ -49,6 +49,7 @@
 ### 1.1
 
 * Added a menu by ox_lib for better management of functions.
+
 ![](https://cdn.discordapp.com/attachments/1295245827039563866/1309778670038286386/image.png?ex=6742d1f1&is=67418071&hm=55a4ce3fb2997054d4f555f755c53f5bf7602cb8edad736a659b0fac0afbc881&)
 
 # COPYRIGHT
