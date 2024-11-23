@@ -1,6 +1,6 @@
 # RACE PATH [STANDALONE]
 
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1301341406207676426/THUMB.png?ex=672814a0&is=6726c320&hm=898ffe300315422f6434a5056ba0b01113078f622ae80f73a097f156d74cae89&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1301341406207676426/THUMB.png?ex=674272a0&is=67412120&hm=201bb49e1b9f4ae73b540ce8c9ae7a3d64acc6028ecdc06dfd783cde3ddd9d2a&)
 
 ## DESCRIPTION
 
@@ -29,7 +29,7 @@
 ## HOW TO USE
 
 ### Commands, binds, path colors, path display modes, rendering distance, etc., all explained and configurable in config.lua.
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1301755185013456956/config.png?ex=6725a17d&is=67244ffd&hm=661740d6f68669d01869c80da65ba6e22b120ac89f5fb201aad000d11d4b6718&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1309773793694318633/config.png?ex=6742cd66&is=67417be6&hm=45ffe8d7fc87d433f406e549cd1dc04e4f28f690aa9ab88c2731b44a0bedf562&)
 
 ## PREVIEW
 
@@ -38,10 +38,17 @@
 ## DEPENDENCIES
 
 * [oxmysql](https://github.com/overextended/oxmysql)
+* [ox_lib](https://github.com/overextended/ox_lib)
 
 ## Discord
 
 ### [Dking Warehouse](https://discord.gg/Rw6vjcXspG)
+
+## CHANGELOG
+
+### 1.1
+
+* Added a menu by ox_lib for better management of functions.
 
 # COPYRIGHT
 
