@@ -1,6 +1,6 @@
 # RACE PATH [STANDALONE]
 
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1301341406207676426/THUMB.png?ex=674272a0&is=67412120&hm=201bb49e1b9f4ae73b540ce8c9ae7a3d64acc6028ecdc06dfd783cde3ddd9d2a&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1312263084760498206/THUMB.png?ex=674bdbbc&is=674a8a3c&hm=734cdbc40e83b5c65d5b98fa80f7435f216329c96f256d657165ba39c50aeda5&)
 
 ## DESCRIPTION
 
@@ -29,7 +29,7 @@
 ## HOW TO USE
 
 ### Commands, binds, path colors, path display modes, rendering distance, etc., all explained and configurable in config.lua.
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1309773793694318633/config.png?ex=6742cd66&is=67417be6&hm=45ffe8d7fc87d433f406e549cd1dc04e4f28f690aa9ab88c2731b44a0bedf562&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1312263070319644744/config.png?ex=674bdbb8&is=674a8a38&hm=2a3f5994ae926600bafa3c0c12d6f564f3d273da6c724b05ed796d07141a8420&)
 
 ## PREVIEW
 
