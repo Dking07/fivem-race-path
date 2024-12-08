@@ -1,6 +1,6 @@
 # RACE PATH [STANDALONE]
 
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1312263084760498206/THUMB.png?ex=674bdbbc&is=674a8a3c&hm=734cdbc40e83b5c65d5b98fa80f7435f216329c96f256d657165ba39c50aeda5&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1315396921359208478/THUMB_1024.png?ex=67574258&is=6755f0d8&hm=a196657bc2bac50506c38cf9df3142ba95a7ddc3b2a19236d84a2f2a8adc45bb&)
 
 ## DESCRIPTION
 
@@ -29,7 +29,7 @@
 ## HOW TO USE
 
 ### Commands, binds, path colors, path display modes, rendering distance, etc., all explained and configurable in config.lua.
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1312263070319644744/config.png?ex=674bdbb8&is=674a8a38&hm=2a3f5994ae926600bafa3c0c12d6f564f3d273da6c724b05ed796d07141a8420&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1315397083934625833/config.png?ex=6757427f&is=6755f0ff&hm=440c77c725d864a1ae22075470cd7b7dab240d95ac47bc4767247b4fc5086840&)
 
 ## PREVIEW
 
@@ -50,7 +50,7 @@
 
 * Added a menu by ox_lib for better management of functions.
 
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1309778670038286386/image.png?ex=6742d1f1&is=67418071&hm=55a4ce3fb2997054d4f555f755c53f5bf7602cb8edad736a659b0fac0afbc881&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1315400385396998245/Menu.png?ex=67574592&is=6755f412&hm=4924a3ac4334c68311c54a83fc52704df4e7d67f19bab517ed5e6c57e166d710&)
 
 # COPYRIGHT
 
