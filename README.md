@@ -15,9 +15,9 @@
 * Path Saving and Loading
     #### Players can save their recorded paths and access them later for comparison and review. Paths are saved in manageable chunks in a MySQL database, allowing for a smoother experience and unlimited saving possibilities.
 
-## DOWNLOAD
+## GET NOW
 
-* [TEBEX](https://dking.tebex.io/package/6562199)
+* [DOWNLOAD](https://dking.tebex.io/package/6562199)
 
 ## HOW TO INSTALL
 
