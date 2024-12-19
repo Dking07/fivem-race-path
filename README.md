@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d1d18b5c-9fd3-40ef-8c73-b6810f807af2)![image](https://github.com/user-attachments/assets/a0bdeee1-1bbc-4f6c-a1d2-8c85b47875c3)# RACE PATH [STANDALONE]
+# RACE PATH [STANDALONE]
 
 ![](https://cdn.discordapp.com/attachments/1295245827039563866/1315396921359208478/THUMB_1024.png?ex=67647158&is=67631fd8&hm=cd81b31a9c6c350a6f3f8f8aba7bc162d11cc360d0532ea93a164ab8b7b7f524&)
 
