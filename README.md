@@ -29,7 +29,7 @@
 ## HOW TO USE
 
 ### Commands, binds, path colors, path display modes, rendering distance, etc., all explained and configurable in config.lua.
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1315397083934625833/config.png?ex=6764717f&is=67631fff&hm=9650b83c88bd2510bb9eb3aefa787f2935851fd37b58ddd426c7dc683d6b680c&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1315397083934625833/config.png?ex=676e54bf&is=676d033f&hm=f12cf28199e923f26b070f1f6d46916463f9ab3fbb5c2ecf4e809008bef2c098&)
 
 ## PREVIEW
 
@@ -50,7 +50,7 @@
 
 * Added a menu by ox_lib for better management of functions.
 
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1315400385396998245/Menu.png?ex=67647492&is=67632312&hm=95550f4227ed3655689fa27982580ce7fc563d0f59ecd919570b4d1424e60399&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1315400385396998245/Menu.png?ex=676e57d2&is=676d0652&hm=1dcf333b45863ef1494cf146e751aa3d7b1bd85486ad62c497d392178bc9aa4c&)
 
 # COPYRIGHT
 
