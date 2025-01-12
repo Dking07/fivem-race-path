@@ -52,7 +52,7 @@
 
 ![](https://cdn.discordapp.com/attachments/1295245827039563866/1327897539281686559/Menu.png?ex=6784bc74&is=67836af4&hm=121c539de227dccf66bb3d83f1cdba50ad614fe34e2e17bb38114317c7e4c73a&)
 
-## 1.2
+### 1.2
 
 * Added exports options;
 * Added more options to customize the menu;
