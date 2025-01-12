@@ -1,6 +1,6 @@
 # RACE PATH [STANDALONE]
 
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1315396921359208478/THUMB_1024.png?ex=67647158&is=67631fd8&hm=cd81b31a9c6c350a6f3f8f8aba7bc162d11cc360d0532ea93a164ab8b7b7f524&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1327897848485904444/THUMB_1024.png?ex=6784bcbe&is=67836b3e&hm=10ccbf7265f9baeb1136bd1a7c41489b1a0fa56448be40bb0092062753719b68&)
 
 ## DESCRIPTION
 
@@ -29,7 +29,7 @@
 ## HOW TO USE
 
 ### Commands, binds, path colors, path display modes, rendering distance, etc., all explained and configurable in config.lua.
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1315397083934625833/config.png?ex=676e54bf&is=676d033f&hm=f12cf28199e923f26b070f1f6d46916463f9ab3fbb5c2ecf4e809008bef2c098&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1327897616821915728/config.png?ex=6784bc86&is=67836b06&hm=899a87d1c42a55dbc924d155b08cd5a270fc426b32a95c2dfc0467cb355e024f&)
 
 ## PREVIEW
 
@@ -50,8 +50,14 @@
 
 * Added a menu by ox_lib for better management of functions.
 
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1315400385396998245/Menu.png?ex=676e57d2&is=676d0652&hm=1dcf333b45863ef1494cf146e751aa3d7b1bd85486ad62c497d392178bc9aa4c&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1327897539281686559/Menu.png?ex=6784bc74&is=67836af4&hm=121c539de227dccf66bb3d83f1cdba50ad614fe34e2e17bb38114317c7e4c73a&)
+
+## 1.2
+
+* Added exports options;
+* Added more options to customize the menu;
+* Added configs options to enable or disable commands and keybinds.
 
 # COPYRIGHT
 
-## BY [DKING](https://github.com/Dking07) 2024 ©
+## BY [DKING](https://github.com/Dking07) 2025 ©
