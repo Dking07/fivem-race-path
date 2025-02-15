@@ -1,7 +1,7 @@
 # RACE PATH [STANDALONE]
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1295245827039563866/1327897848485904444/THUMB_1024.png?ex=679d207e&is=679bcefe&hm=be308493f098fe667eec42a876a8136194e52f8c105f5775781584dc42dbdd3c&" width="700px" />
+<img src="https://github.com/Dking07/fivem-backup/blob/main/My%20Scripts/Race%20Path/THUMB.png" width="700px" />
 </div>
 
 ## DESCRIPTION
@@ -32,7 +32,7 @@
 
 ### Commands, binds, path colors, path display modes, rendering distance, etc., all explained and configurable in config.lua.
 <div align="left">
-<img src="https://cdn.discordapp.com/attachments/1295245827039563866/1327897616821915728/config.png?ex=67a7ac46&is=67a65ac6&hm=126a64f12af84ada73facc6346eea7bae56f7b6e4fd1ab489364b5c0e68e2740&" width="300px" />
+<img src="https://github.com/Dking07/fivem-backup/blob/main/My%20Scripts/Race%20Path/config.png" width="300px" />
 </div>
 
 ## PREVIEW
@@ -55,7 +55,7 @@
 * Added a menu by ox_lib for better management of functions.
 
 <div align="left">
-<img src="https://cdn.discordapp.com/attachments/1295245827039563866/1327897539281686559/Menu.png?ex=679d2034&is=679bceb4&hm=ea8ff59d59dea61623cbb63d0769907d4e3907b31329389d0fa610444e43354b&" width="200px" />
+<img src="https://github.com/Dking07/fivem-backup/blob/main/My%20Scripts/Race%20Path/Menu.png" width="200px" />
 </div>
 
 ### 1.2
