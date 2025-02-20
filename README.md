@@ -1,7 +1,7 @@
 # RACE PATH [STANDALONE]
 
 <div align="center">
-<img src="https://github.com/Dking07/fivem-backup/blob/main/My%20Scripts/Race%20Path/THUMB.png" width="700px" />
+<img src="https://github.com/Dking07/fivem-race-path/blob/main/THUMB.png" width="700px" />
 </div>
 
 ## DESCRIPTION
@@ -32,7 +32,7 @@
 
 ### Commands, binds, path colors, path display modes, rendering distance, etc., all explained and configurable in config.lua.
 <div align="left">
-<img src="https://github.com/Dking07/fivem-backup/blob/main/My%20Scripts/Race%20Path/config.png" width="300px" />
+<img src="https://github.com/Dking07/fivem-race-path/blob/main/config.png" width="300px" />
 </div>
 
 ## PREVIEW
@@ -55,7 +55,7 @@
 * Added a menu by ox_lib for better management of functions.
 
 <div align="left">
-<img src="https://github.com/Dking07/fivem-backup/blob/main/My%20Scripts/Race%20Path/Menu.png" width="200px" />
+<img src="https://github.com/Dking07/fivem-race-path/blob/main/Menu.png" width="200px" />
 </div>
 
 ### 1.2
