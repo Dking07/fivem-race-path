@@ -44,9 +44,9 @@
 * [oxmysql](https://github.com/overextended/oxmysql)
 * [ox_lib](https://github.com/overextended/ox_lib)
 
-## Discord
+## SUPPORT
 
-### [Dking Warehouse](https://discord.gg/Rw6vjcXspG)
+### [Discord](https://discord.gg/Rw6vjcXspG)
 
 ## CHANGELOG
 
