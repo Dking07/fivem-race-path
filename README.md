@@ -60,7 +60,7 @@
 
 ### 1.2
 
-* Added exports options;
+* Added [exports](https://github.com/Dking07/fivem-race-path/blob/main/exports.png) options;
 * Added more options to customize the menu;
 * Added configs options to enable or disable commands and keybinds.
 
