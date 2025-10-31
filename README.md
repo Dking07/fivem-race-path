@@ -32,6 +32,12 @@ Race Path is the ultimate tool for bringing a high level of racing immersion to 
 
 Commands, binds, path colors, path display modes, rendering distance, etc., all explained and configurable in config folder.
 
+## EXPORTS
+
+<div align="left">
+<img src="https://github.com/user-attachments/assets/9c87c2e3-033c-45d5-a11f-e8a10d459054" width="250px" />
+</div>
+
 ## PREVIEW
 
 * [YouTube](https://youtu.be/JfWrEjP3NXc)
