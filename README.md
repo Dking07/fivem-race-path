@@ -26,7 +26,7 @@ Race Path is the ultimate tool for bringing a high level of racing immersion to 
 * [Download](https://portal.cfx.re/assets/granted-assets) script;
 * Place it in the resources folder;
 * Install the database 'race_path.sql' to save the Paths;
-* Add 'ensure dking_race_path' (without quotes) to server.cfg.
+* Add 'ensure dking_racepath' (without quotes) to server.cfg.
 
 ## HOW TO USE
 
