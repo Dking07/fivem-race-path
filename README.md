@@ -73,4 +73,4 @@ Commands, binds, path colors, path display modes, rendering distance, etc., all 
 
 # COPYRIGHT
 
-## BY [DKING](https://github.com/Dking07) 2025 ©
+## BY [DKING](https://github.com/Dking07) 2026 ©
